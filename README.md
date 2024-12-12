@@ -10,6 +10,9 @@ Here is the list of papers we reviewed in our survey paper. We only list the pap
 ## End-to-end Planning 
 
 ## Sampling-based Motion Planning 
+### Sampling Primitive
+
+### Steering Primitive
 
 ## Constrained Sampling-based Motion Planning 
 
