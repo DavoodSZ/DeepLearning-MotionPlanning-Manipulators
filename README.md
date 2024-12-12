@@ -1,2 +1,2 @@
-# Paper list of the survey paper
-Paper list in the survey paper: Challenges and Opportunities of Using Deep Learning in Safe-Critical Robotic Manipulator Planning
+# Paper list in the survey paper
+Here is the list of the papers that we reviewed in our survey paper.
