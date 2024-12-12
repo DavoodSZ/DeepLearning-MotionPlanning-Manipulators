@@ -7,6 +7,8 @@ Here is the list of papers we reviewed in our survey paper. We only list the pap
 - [Trajectory Optimization](#trajectory-optimization): This group of papers utilizes deep learning to warm-start the global trajectory optimization problem.
 - [Collision Checking](#collision-checking): This group of papers utilizes deep learning for collision querying and collision checking within classical motion planning algorithms.
 
+This list will be continuously updated.
+
 ## End-to-end Planning 
 
 ## Sampling-based Motion Planning 
