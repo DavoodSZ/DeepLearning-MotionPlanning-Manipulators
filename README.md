@@ -16,7 +16,7 @@ This list will be continuously updated.
 - **Avoid Everything: Model-Free Collision Avoidance with Expert-Guided Fine-Tuning**, 2024, [Paper Link](https://openreview.net/pdf?id=ccxDydaAs1).
 - **Neural mp: A generalist neural motion planner**, 2024, [Paper Link](https://arxiv.org/abs/2409.05864).
 - **Transformer-Enhanced Motion Planner: Attention-Guided Sampling for State-Specific Decision Making**, 2024, [Paper Link](https://arxiv.org/pdf/2404.19403)
-- **Roco: Dialectic multi-robot collaboration with large language models**, 2024, [paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610855).
+- **Roco: Dialectic multi-robot collaboration with large language models**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610855).
 
 ## Sampling-based Motion Planning 
 ### Sampling Primitive
