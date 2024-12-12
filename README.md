@@ -10,6 +10,7 @@ Here is the list of papers we reviewed in our survey paper. We only list the pap
 This list will be continuously updated.
 
 ## End-to-end Planning 
+- **Learning To Find Shortest Collision-Free Paths From Images.**, 2020, [Paper Link](https://d1wqtxts1xzle7.cloudfront.net/83099921/2011.14787v1-libre.pdf?1648935949=&response-content-disposition=inline%3B+filename%3DLearning_To_Find_Shortest_Collision_Free.pdf&Expires=1734048774&Signature=TF0BRAHvqZi7oEIlGux7uuxjRteaiaelbXVdGbZEPbJZScRDidoPj6yr8jNd6tzI97hgz7mQ9yfVWhxQIby4lMl16z8HjhEy45ldLm6IrRkOfcvi9-HTUo1eYWpVIOvRWL0EWZKoWk6FGv6HaN07fjGyMXX0Y1eh~4OlDko8DXG-fCoJAxQ-DNMO6NyD6S1AqQzEMimfwkdqGI4AMrzQhAWu5sR13ENta5t76~2fNNqYACs8oGpQGJ1I4peCx58~eAgdTtfoWJJ8-4Sk2BoHTWqZYq5ApSURudZf9VvlZS~fOcjDk~aDyOjt17bktI12Ua~CU0DtiNdNaUTw385GyA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).
 
 ## Sampling-based Motion Planning 
 ### Sampling Primitive
