@@ -63,6 +63,8 @@ This list will be continuously updated.
 - DGMs - VAEs: **Learning sampling dictionaries for efficient and generalizable robot motion planning with transformers**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10271531).
 - DGMs - VAEs: **Zero-Shot Constrained Motion Planning Transformers Using Learned Sampling Dictionaries**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10611398).
 - DGMs - VAEs: **Graph Wasserstein autoencoder-based asymptotically optimal motion planning with kinematic constraints for robotic manipulation**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9708428).
+- DGMs - GANs: **Guiding search in continuous state-action spaces by learning an action sampler from off-target search experience**, 2018, [Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/12106/11965).
+- DGMs - GANs: **Learning-based collision-free planning on arbitrary optimization criteria in the latent space through cGANs**, 2023, [Paper Link](https://www.tandfonline.com/doi/pdf/10.1080/01691864.2023.2180327).
 
 ### Steering Primitive
 
