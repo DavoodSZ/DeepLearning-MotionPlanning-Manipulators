@@ -65,8 +65,13 @@ This list will be continuously updated.
 - DGMs - VAEs: **Graph Wasserstein autoencoder-based asymptotically optimal motion planning with kinematic constraints for robotic manipulation**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9708428).
 - DGMs - GANs: **Guiding search in continuous state-action spaces by learning an action sampler from off-target search experience**, 2018, [Paper Link](https://ojs.aaai.org/index.php/AAAI/article/view/12106/11965).
 - DGMs - GANs: **Learning-based collision-free planning on arbitrary optimization criteria in the latent space through cGANs**, 2023, [Paper Link](https://www.tandfonline.com/doi/pdf/10.1080/01691864.2023.2180327).
+- DGMs - NFs: **Plannerflows: Learning motion samplers with normalising flows**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636190).
+- Transformers: **Learning to plan in high dimensions via neural exploration-exploitation trees**, 2019. [Paper Link](https://arxiv.org/pdf/1903.00070).
 
 ### Steering Primitive
+- MLPs: **Fast swept volume estimation with deep learning**, 2020, [Paper Link](https://www.cs.unm.edu/tapialab/Publications/60.pdf).
+- MLPs: **Fast deep swept volume estimator**, 2021, [Paper Link](https://journals.sagepub.com/doi/pdf/10.1177/0278364920940781).
+- MLPs: **Multitask and Transfer Learning of Geometric Robot Motion**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636052).
 
 ## Constrained Sampling-based Motion Planning 
 
