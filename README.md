@@ -73,7 +73,17 @@ This list will be continuously updated.
 - MLPs: **Fast deep swept volume estimator**, 2021, [Paper Link](https://journals.sagepub.com/doi/pdf/10.1177/0278364920940781).
 - MLPs: **Multitask and Transfer Learning of Geometric Robot Motion**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9636052).
 
-## Constrained Sampling-based Motion Planning 
+## Constrained Sampling-based Motion Planning
+- MLPs: **Learning equality constraints for motion planning on manifolds**, 2021, [Paper Link](https://proceedings.mlr.press/v155/sutanto21a/sutanto21a.pdf).
+- MLPs: **Fast kinodynamic planning on the constraint manifold with deep neural networks**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10292912).
+- MLPs: **Ntfields: Neural time fields for physics-informed robot motion planning**, 2022, [Paper Link](https://arxiv.org/pdf/2210.00120).
+- MLP: **Progressive Learning for Physics-informed Neural Motion Planning**, 2023, [Paper Link](https://arxiv.org/pdf/2306.00616).
+- MLP: **Physics-informed Neural Networks for Robot Motion under Constraints**, 2024, [Paper Link](https://openreview.net/pdf?id=gLf0PnhEO2).
+- DGMs - VAEs: **LAC-RRT: Constrained Rapidly-Exploring Random Tree with Configuration Transfer Models for Motion Planning**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10244038).
+- DGMs - VAEs: **A Constrained Motion Planning Method Exploiting Learned Latent Space for High-Dimensional State and Constraint Spaces**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10538476).
+- DGMs - GANs: **Generative adversarial network to learn valid distributions of robot configurations for inverse kinematics and constrained motion planning**, 2020, [Paper Link](https://www.researchgate.net/profile/Teguh-Lembono/publication/345756820_Generative_Adversarial_Network_to_Learn_Valid_Distributions_of_Robot_Configurations_for_Inverse_Kinematics_and_Constrained_Motion_Planning/links/5fc0ca3992851c933f6606d6/Generative-Adversarial-Network-to-Learn-Valid-Distributions-of-Robot-Configurations-for-Inverse-Kinematics-and-Constrained-Motion-Planning.pdf).
+- DGMs - GANs: **Learning constrained distributions of robot configurations with generative adversarial network**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9385935).
+- DGMs - GANs: **Approximating constraint manifolds using generative models for sampling-based constrained motion planning**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561456).
 
 ## Trajectory Optimization
 
