@@ -96,5 +96,7 @@ This list will be continuously updated.
 - DGMs - DMs: **APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models**, 2024, [Paper Link](https://arxiv.org/pdf/2404.02284).
 - DGMs - DMs: **Edmp: Ensemble-of-costs-guided diffusion for motion planning**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610519).
 - DGMs - DMs: **Potential based diffusion motion planning**, 2024, [Paper Link](https://arxiv.org/pdf/2407.06169).
+- DGMs - EBMs: **Learning implicit priors for motion optimization**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981264).
+- DGMs - EBMs: **Global and reactive motion generation with geometric fabric command sequences**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160965).
 
 ## Collision Checking
