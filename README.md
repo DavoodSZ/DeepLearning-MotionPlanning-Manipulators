@@ -20,28 +20,28 @@ This list will be continuously updated.
 
 ## Sampling-based Motion Planning 
 ### Sampling Primitive
-- MLP: **Motion planning networks**, 2019, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793889).
-- MLP: **Motion planning networks: Bridging the gap between learning-based and classical motion planners**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9154607).
-- MLP: **Neural manipulation planning on constraint manifolds**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9143433).
-- MLP: **Constrained motion planning networks x**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9501956).
-- MLP: **Deeply informed neural sampling for robot motion planning**, 2018, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8593772).
-- MLP: **End-to-end deep learning-based framework for path planning and collision checking: bin-picking application**, 2024, [Paper Link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D68F8B21FDA8DC6DC3E1D5D312C3178B/S0263574724000109a.pdf/endtoend_deep_learningbased_framework_for_path_planning_and_collision_checking_binpicking_application.pdf).
-- MLP: **A data-driven approach for motion planning of industrial robots controlled by high-level motion commands**, 2023, [Paper Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1030668/full).
-- MLP: **Learning motion planning functions using a linear transition in the c-space: Networks and kernels**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9529848).
-- MLP: **Parallelised diffeomorphic sampling-based motion planning**, 2022, [Paper Link](https://proceedings.mlr.press/v164/lai22a/lai22a.pdf)
-- MLP: **Leveraging experience in lazy search**, 2021, [Paper Link](https://link.springer.com/content/pdf/10.1007/s10514-021-10018-5.pdf).
-- CNN: **Using deep learning to bootstrap abstractions for hierarchical robot planning**, 2022, [Paper Link](https://arxiv.org/pdf/2202.00907).
-- CNN: **Prediction of bottleneck points for manipulation planning in cluttered environment using a 3d convolutional neural network**, 2019, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8988766).
-- CNN: **A Hybrid AI-based Adaptive Path Planning for Intelligent Robot Arms**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10339309).
-- CNN: **Learning to retrieve relevant experiences for motion planning**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812076).
-- CNN: **3d-cnn based heuristic guided task-space planner for faster motion planning**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196883).
-- RNN: **A data-driven approach for motion planning of industrial robots controlled by high-level motion commands**, 2023, [Paper Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1030668/full).
-- RNN: **Deep learning-based optimization for motion planning of dual-arm assembly robots**, 2021, [Paper Link](https://www.sciencedirect.com/science/article/pii/S0360835221005076).
-- GNN: **SIMPNet: Spatial-Informed Motion Planning Network**, 2024, [Paper Link](https://arxiv.org/pdf/2408.12831).
-- GNN: **Reducing collision checking for sampling-based motion planning using graph neural networks**, 2021, [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2021/file/224e5e49814ca908e58c02e28a0462c1-Paper.pdf).
-- GNN: **Hardware architecture of graph neural network-enabled motion planner**, 2022, [Paper Link](https://dl.acm.org/doi/pdf/10.1145/3508352.3561113).
-- GNN: **Learning-based motion planning in dynamic environments using gnns and temporal encoding**, 2022, [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2022/file/c1d4798259250f2b4fe38614b48f8996-Paper-Conference.pdf).
-- GNN: **Dyngmp: Graph neural network-based motion planning in unpredictable dynamic environments**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342326).
+- MLPs: **Motion planning networks**, 2019, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793889).
+- MLPs: **Motion planning networks: Bridging the gap between learning-based and classical motion planners**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9154607).
+- MLPs: **Neural manipulation planning on constraint manifolds**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9143433).
+- MLPs: **Constrained motion planning networks x**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9501956).
+- MLPs: **Deeply informed neural sampling for robot motion planning**, 2018, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8593772).
+- MLPs: **End-to-end deep learning-based framework for path planning and collision checking: bin-picking application**, 2024, [Paper Link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D68F8B21FDA8DC6DC3E1D5D312C3178B/S0263574724000109a.pdf/endtoend_deep_learningbased_framework_for_path_planning_and_collision_checking_binpicking_application.pdf).
+- MLPs: **A data-driven approach for motion planning of industrial robots controlled by high-level motion commands**, 2023, [Paper Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1030668/full).
+- MLPs: **Learning motion planning functions using a linear transition in the c-space: Networks and kernels**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9529848).
+- MLPs: **Parallelised diffeomorphic sampling-based motion planning**, 2022, [Paper Link](https://proceedings.mlr.press/v164/lai22a/lai22a.pdf)
+- MLPs: **Leveraging experience in lazy search**, 2021, [Paper Link](https://link.springer.com/content/pdf/10.1007/s10514-021-10018-5.pdf).
+- CNNs: **Using deep learning to bootstrap abstractions for hierarchical robot planning**, 2022, [Paper Link](https://arxiv.org/pdf/2202.00907).
+- CNNs: **Prediction of bottleneck points for manipulation planning in cluttered environment using a 3d convolutional neural network**, 2019, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8988766).
+- CNNs: **A Hybrid AI-based Adaptive Path Planning for Intelligent Robot Arms**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10339309).
+- CNNs: **Learning to retrieve relevant experiences for motion planning**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9812076).
+- CNNs: **3d-cnn based heuristic guided task-space planner for faster motion planning**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196883).
+- RNNs: **A data-driven approach for motion planning of industrial robots controlled by high-level motion commands**, 2023, [Paper Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1030668/full).
+- RNNs: **Deep learning-based optimization for motion planning of dual-arm assembly robots**, 2021, [Paper Link](https://www.sciencedirect.com/science/article/pii/S0360835221005076).
+- GNNs: **SIMPNet: Spatial-Informed Motion Planning Network**, 2024, [Paper Link](https://arxiv.org/pdf/2408.12831).
+- GNNs: **Reducing collision checking for sampling-based motion planning using graph neural networks**, 2021, [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2021/file/224e5e49814ca908e58c02e28a0462c1-Paper.pdf).
+- GNNs: **Hardware architecture of graph neural network-enabled motion planner**, 2022, [Paper Link](https://dl.acm.org/doi/pdf/10.1145/3508352.3561113).
+- GNNs: **Learning-based motion planning in dynamic environments using gnns and temporal encoding**, 2022, [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2022/file/c1d4798259250f2b4fe38614b48f8996-Paper-Conference.pdf).
+- GNNs: **Dyngmp: Graph neural network-based motion planning in unpredictable dynamic environments**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342326).
 - DGMs - VAEs: **Motion planning networks**, 2019, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793889).
 - DGMs - VAEs: **Motion planning networks: Bridging the gap between learning-based and classical motion planners**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9154607).
 - DGMs - VAEs: **Deeply informed neural sampling for robot motion planning**, 2018, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8593772).
@@ -77,8 +77,8 @@ This list will be continuously updated.
 - MLPs: **Learning equality constraints for motion planning on manifolds**, 2021, [Paper Link](https://proceedings.mlr.press/v155/sutanto21a/sutanto21a.pdf).
 - MLPs: **Fast kinodynamic planning on the constraint manifold with deep neural networks**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10292912).
 - MLPs: **Ntfields: Neural time fields for physics-informed robot motion planning**, 2022, [Paper Link](https://arxiv.org/pdf/2210.00120).
-- MLP: **Progressive Learning for Physics-informed Neural Motion Planning**, 2023, [Paper Link](https://arxiv.org/pdf/2306.00616).
-- MLP: **Physics-informed Neural Networks for Robot Motion under Constraints**, 2024, [Paper Link](https://openreview.net/pdf?id=gLf0PnhEO2).
+- MLPs: **Progressive Learning for Physics-informed Neural Motion Planning**, 2023, [Paper Link](https://arxiv.org/pdf/2306.00616).
+- MLPs: **Physics-informed Neural Networks for Robot Motion under Constraints**, 2024, [Paper Link](https://openreview.net/pdf?id=gLf0PnhEO2).
 - DGMs - VAEs: **LAC-RRT: Constrained Rapidly-Exploring Random Tree with Configuration Transfer Models for Motion Planning**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10244038).
 - DGMs - VAEs: **A Constrained Motion Planning Method Exploiting Learned Latent Space for High-Dimensional State and Constraint Spaces**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10538476).
 - DGMs - GANs: **Generative adversarial network to learn valid distributions of robot configurations for inverse kinematics and constrained motion planning**, 2020, [Paper Link](https://www.researchgate.net/profile/Teguh-Lembono/publication/345756820_Generative_Adversarial_Network_to_Learn_Valid_Distributions_of_Robot_Configurations_for_Inverse_Kinematics_and_Constrained_Motion_Planning/links/5fc0ca3992851c933f6606d6/Generative-Adversarial-Network-to-Learn-Valid-Distributions-of-Robot-Configurations-for-Inverse-Kinematics-and-Constrained-Motion-Planning.pdf).
@@ -86,8 +86,8 @@ This list will be continuously updated.
 - DGMs - GANs: **Approximating constraint manifolds using generative models for sampling-based constrained motion planning**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561456).
 
 ## Trajectory Optimization
-- MLP: **Deep learning can accelerate grasp-optimized motion planning**, 2020, [Paper Link](https://www.science.org/doi/pdf/10.1126/scirobotics.abd7710).
-- MLP: **Learning-based warm-starting for fast sequential convex programming and trajectory optimization**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9172293).
+- MLPs: **Deep learning can accelerate grasp-optimized motion planning**, 2020, [Paper Link](https://www.science.org/doi/pdf/10.1126/scirobotics.abd7710).
+- MLPs: **Learning-based warm-starting for fast sequential convex programming and trajectory optimization**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9172293).
 - DGMs - VAEs: **Motion planning by learning the solution manifold in trajectory optimization**, 2022, [Paper Link](https://journals.sagepub.com/doi/pdf/10.1177/02783649211044405).
 - DGMs - DMs: **Motion planning diffusion: Learning and planning of robot motions with diffusion models**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342382).
 - DGMs - DMs: **Sampling constrained trajectories using composable diffusion models**, 2023, [Paper Link](https://openreview.net/pdf?id=UAylEpIMNE).
@@ -100,3 +100,17 @@ This list will be continuously updated.
 - DGMs - EBMs: **Global and reactive motion generation with geometric fabric command sequences**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10160965).
 
 ## Collision Checking
+- MLPs: **Robot motion planning in learned latent spaces**, 2019, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8653875).
+- MLPs: **Neural collision clearance estimator for batched motion planning**, 2020, [Paper Link](https://arxiv.org/pdf/1910.05917).
+- MLPs: **Whole-body Self-collision Distance Detection for A Heavy-duty Manipulator Using Neural Networks**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10356839).
+- MLPs: **Reinforcement learning in robotic motion planning by combined experience-based planning and self-imitation learning**, 2023, [Paper Link](https://www.sciencedirect.com/science/article/pii/S0921889023001847).
+- MLPs: **Comparison of machine learning techniques for self-collisions checking of manipulating robots**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10242571).
+- MLPs: **Active learning of the collision distance function for high-DOF multi-arm robot systems**, 2024, [Paper Link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A89DA2FCB73EBCC6FA1EC00E3DC53AF4/S0263574723001790a.pdf/div-class-title-active-learning-of-the-collision-distance-function-for-high-dof-multi-arm-robot-systems-div.pdf).
+- MLPs: **Implicit Distance Functions: Learning and Applications in Control**, 2020, [Paper Link](https://infoscience.epfl.ch/server/api/core/bitstreams/80520f75-bd5d-4617-90d7-325411219398/content).
+- MLPs: **Neural joint space implicit signed distance functions for reactive robot manipulator control**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9976191).
+- MLPs: **Reactive collision-free motion generation in joint space via dynamical systems and sampling-based MPC**, 2024, [Paper Link](https://journals.sagepub.com/doi/pdf/10.1177/02783649241246557).
+- MLPs: **Regularized deep signed distance fields for reactive motion generation**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981456).
+- MLPs: **Collision-free motion generation based on stochastic optimization and composite signed distance field networks of articulated robot**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10238810).
+- MLPs: **Stochastic implicit neural signed distance functions for safe motion planning under sensing uncertainty**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610773).
+- MLPs: **Configuration Space Distance Fields for Manipulation Planning**, 2024, [Paper Link](https://arxiv.org/pdf/2406.01137).
+- MLPs: **Deep prediction of swept volume geometries: Robots and resolutions**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341396).
