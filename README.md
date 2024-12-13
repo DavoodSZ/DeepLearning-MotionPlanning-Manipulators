@@ -20,6 +20,16 @@ This list will be continuously updated.
 
 ## Sampling-based Motion Planning 
 ### Sampling Primitive
+- MLP: **Motion planning networks**, 2019, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793889).
+- MLP: **Motion planning networks: Bridging the gap between learning-based and classical motion planners**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9154607).
+- MLP: **Neural manipulation planning on constraint manifolds**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9143433).
+- MLP: **Constrained motion planning networks x**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9501956).
+- MLP: **Deeply informed neural sampling for robot motion planning**, 2018, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8593772).
+- MLP: **End-to-end deep learning-based framework for path planning and collision checking: bin-picking application**, 2024, [Paper Link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D68F8B21FDA8DC6DC3E1D5D312C3178B/S0263574724000109a.pdf/endtoend_deep_learningbased_framework_for_path_planning_and_collision_checking_binpicking_application.pdf).
+- MLP: **A data-driven approach for motion planning of industrial robots controlled by high-level motion commands**, 2023, [Paper Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1030668/full).
+- MLP: **Learning motion planning functions using a linear transition in the c-space: Networks and kernels**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9529848).
+- MLP: **Parallelised diffeomorphic sampling-based motion planning**, 2022, [Paper Link](https://proceedings.mlr.press/v164/lai22a/lai22a.pdf)
+- MLP: **Leveraging experience in lazy search**, 2021, [Paper Link](https://link.springer.com/content/pdf/10.1007/s10514-021-10018-5.pdf).
 
 ### Steering Primitive
 
