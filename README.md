@@ -114,3 +114,15 @@ This list will be continuously updated.
 - MLPs: **Stochastic implicit neural signed distance functions for safe motion planning under sensing uncertainty**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610773).
 - MLPs: **Configuration Space Distance Fields for Manipulation Planning**, 2024, [Paper Link](https://arxiv.org/pdf/2406.01137).
 - MLPs: **Deep prediction of swept volume geometries: Robots and resolutions**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9341396).
+- MLPs: **Single swept volume reconstruction by signed distance function learning: A feasibility study based on implicit geometric regularization**, 2022, [Paper Link](https://homepage.iis.sinica.edu.tw/papers/liu/25695-F.pdf).
+- MLPs: **Reachability-based trajectory design with neural implicit safety constraints**, 2023, [Paper Link](https://arxiv.org/pdf/2302.07352).
+- MLPs: **Neural Implicit Swept Volume Models for Fast Collision Detection**, 2024, [Paper Link](https://arxiv.org/pdf/2402.15281).
+- MLPs: **Reliable and Accurate Implicit Neural Representation of Multiple Swept Volumes with Application to Safe Human–Robot Interaction**, 2024, [Paper Link](https://link.springer.com/content/pdf/10.1007/s42979-024-02640-8.pdf).
+- MLPs: **Fast Collision Detection for Robot Manipulator Path: an Approach Based on Implicit Neural Representation of Multiple Swept Volumes**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10268533).
+- CNNs: **Object rearrangement using learned implicit collision functions**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561516).
+- CNNs: **Cabinet: Scaling neural collision detection for object rearrangement with procedural scene generation**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10161528).
+- GNNs: **Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10611465).
+- GNNs: **GraphDistNet: A graph-based collision-distance estimator for gradient-based trajectory optimization**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9851942).
+- GNNs: **PairwiseNet: Pairwise Collision Distance Learning for High-dof Robot Systems**, 2023, [Paper Link](https://proceedings.mlr.press/v229/kim23d/kim23d.pdf).
+- Transformers: **GraphDistNet: A graph-based collision-distance estimator for gradient-based trajectory optimization**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9851942).
+- Transformers: **DistFormer: A High-Accuracy Transformer-Based Collision Distance Estimator for Robotic Arms**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10245243).
