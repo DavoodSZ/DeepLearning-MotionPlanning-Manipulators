@@ -86,5 +86,15 @@ This list will be continuously updated.
 - DGMs - GANs: **Approximating constraint manifolds using generative models for sampling-based constrained motion planning**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9561456).
 
 ## Trajectory Optimization
+- MLP: **Deep learning can accelerate grasp-optimized motion planning**, 2020, [Paper Link](https://www.science.org/doi/pdf/10.1126/scirobotics.abd7710).
+- MLP: **Learning-based warm-starting for fast sequential convex programming and trajectory optimization**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9172293).
+- DGMs - VAEs: **Motion planning by learning the solution manifold in trajectory optimization**, 2022, [Paper Link](https://journals.sagepub.com/doi/pdf/10.1177/02783649211044405).
+- DGMs - DMs: **Motion planning diffusion: Learning and planning of robot motions with diffusion models**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342382).
+- DGMs - DMs: **Sampling constrained trajectories using composable diffusion models**, 2023, [Paper Link](https://openreview.net/pdf?id=UAylEpIMNE).
+- DGMs - DMs: **Efficient and Guaranteed-Safe Non-Convex Trajectory Optimization with Constrained Diffusion Model**, 2024, [Paper Link](https://arxiv.org/pdf/2403.05571).
+- DGMs - DMs: **Constraint-Aware Diffusion Models for Trajectory Optimization**, 2024, [Paper Link](https://arxiv.org/pdf/2406.00990).
+- DGMs - DMs: **APEX: Ambidextrous Dual-Arm Robotic Manipulation Using Collision-Free Generative Diffusion Models**, 2024, [Paper Link](https://arxiv.org/pdf/2404.02284).
+- DGMs - DMs: **Edmp: Ensemble-of-costs-guided diffusion for motion planning**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610519).
+- DGMs - DMs: **Potential based diffusion motion planning**, 2024, [Paper Link](https://arxiv.org/pdf/2407.06169).
 
 ## Collision Checking
