@@ -1,5 +1,8 @@
 <p align="center">
 <img width="1000" src="./assets/SurveyStructure.svg">
+<br>
+<em>Fig 1. Review structure with reference to sections of the original paper. Figures are adopted from Carvalho *et al.* [1], Qureshi *et al.* [2], Bency *et al.* [3], and Song *et al.* [4].</em>
+</p>
 
 # Paper List in the Survey Paper
 Here is the list of papers we reviewed in our survey paper. We only list the papers presented in "Section V. Deep Learning in Planning for Robotic Manipulators" of the paper. The papers are listed based on the taxonomy in section V of the original paper.
