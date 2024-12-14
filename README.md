@@ -1,5 +1,8 @@
 # Deep Learning in Robotic Manipulator Planning: State of the Art, Challenges and Future Perspectives
 <a href="https://zh.engr.tamu.edu/people-2/">Davood Soleymanzadeh</a>,
+<a href="https://haosu-robotics.github.io/people">Ivan Lopez-Sanchez</a>,
+<a href="https://mae.ncsu.edu/people/hao-su/">Hao Su</a>,
+<a href="https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html">Minghui Zheng</a>,
 
 <p align="center">
 <img width="1000" src="./assets/SurveyStructure.svg">
