@@ -1,7 +1,7 @@
 <p align="center">
 <img width="1000" src="./assets/SurveyStructure.svg">
 <br>
-<em>Fig 1. Review structure with reference to sections of the original paper. Figures are adopted from Carvalho *et al.* [1], Qureshi *et al.* [2], Bency *et al.* [3], and Song *et al.* [4].</em>
+<em>Fig 1. Review structure with reference to sections of the original paper. Figures are adopted from Carvalho _et al._ [1], Qureshi *et al.* [2], Bency *et al.* [3], and Song *et al.* [4].</em>
 </p>
 
 # Paper List in the Survey Paper
