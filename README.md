@@ -134,4 +134,9 @@ This list will be continuously updated.
 - Transformers: **DistFormer: A High-Accuracy Transformer-Based Collision Distance Estimator for Robotic Arms**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10245243).
 
 # Acknowledgement
-The structure of this repository was adopted from the repo of the recent survey paper: [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://robotics-fm-survey.github.io/).
+The structure of this repository is based on the repository of the survey paper titled: [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://robotics-fm-survey.github.io/).
+
+# References
+1. []()
+2. []()
+3. []()
