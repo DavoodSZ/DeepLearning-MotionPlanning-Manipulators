@@ -136,7 +136,12 @@ This list will be continuously updated.
 # Acknowledgement
 The structure of this repository is based on the repository of the survey paper titled: [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://robotics-fm-survey.github.io/).
 
+Please contact [Davood Soleymanzadeh](https://zh.engr.tamu.edu/people-2/) with any questions or suggestions.
+
 # References
 1. []()
 2. []()
 3. []()
+
+# Citation
+If you find our work useful, please consider citing:
