@@ -139,9 +139,10 @@ The structure of this repository is based on the repository of the survey paper 
 Please contact [Davood Soleymanzadeh](https://zh.engr.tamu.edu/people-2/) with any questions or suggestions.
 
 # References
-1. []()
-2. []()
-3. []()
+1. [Motion planning diffusion: Learning and planning of robot motions with diffusion models](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342382&casa_token=v5emJzVw7rsAAAAA:AkG7symAkhkSMl0bL3Y9TUZCRfb4tZXaqCGDzzc9L5AeuudFwwD3JFe9v9nhcTcfDw-cuxSG)
+2. [Motion planning networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793889&casa_token=KEQqA8lfWacAAAAA:mHBn2XI7S6gpigWvWmhayI-280Rz4TAuPkGua4y2f0gmOYowHyK-EE4ZW_x1QPcTo1wdvBa-)
+3. [Neural path planning: Fixed time, near-optimal path generation via oracle imitation](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8968089&casa_token=R0o0ErTXOcsAAAAA:x1veVh7vOQz0KyAr80Le19jVSIakx-RXSugnj9ktEzRjiHCZ_B_uYD1cwpWqRLwXx4V6McXY)
+4. [Graph-based 3D Collision-distance Estimation Network with Probabilistic Graph Rewiring](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10611465&casa_token=69VgilAGhGgAAAAA:YXf9XFNtHgLOLHGzPKCHW5yG07s7hOSN0ShxKfwsfxAE1jXG05wl1mRZw6AOSnv5KBpaPTVT)
 
 # Citation
 If you find our work useful, please consider citing:
