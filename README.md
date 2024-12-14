@@ -1,4 +1,5 @@
 # Deep Learning in Robotic Manipulator Planning: State of the Art, Challenges and Future Perspectives
+<a href="https://zh.engr.tamu.edu/people-2/">Davood Soleymanzadeh</a>,
 
 <p align="center">
 <img width="1000" src="./assets/SurveyStructure.svg">
