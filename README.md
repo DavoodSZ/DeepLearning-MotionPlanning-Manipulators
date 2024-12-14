@@ -132,3 +132,6 @@ This list will be continuously updated.
 - GNNs: **PairwiseNet: Pairwise Collision Distance Learning for High-dof Robot Systems**, 2023, [Paper Link](https://proceedings.mlr.press/v229/kim23d/kim23d.pdf).
 - Transformers: **GraphDistNet: A graph-based collision-distance estimator for gradient-based trajectory optimization**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9851942).
 - Transformers: **DistFormer: A High-Accuracy Transformer-Based Collision Distance Estimator for Robotic Arms**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10245243).
+
+# Acknowledgement
+The structure of this repository was adopted from the repo of the recent survey paper: [Toward General-Purpose Robots via Foundation Models: A Survey and Meta-Analysis](https://robotics-fm-survey.github.io/).
