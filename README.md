@@ -49,6 +49,8 @@ This list will be continuously updated.
 - CNNs: **3d-cnn based heuristic guided task-space planner for faster motion planning**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9196883).
 - RNNs: **A data-driven approach for motion planning of industrial robots controlled by high-level motion commands**, 2023, [Paper Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1030668/full).
 - RNNs: **Deep learning-based optimization for motion planning of dual-arm assembly robots**, 2021, [Paper Link](https://www.sciencedirect.com/science/article/pii/S0360835221005076).
+- GNNs: **KG-Planner: Knowledge-Informed Graph Neural Planning for Collaborative Manipulators**, 2024, [Paper Link](https://arxiv.org/pdf/2405.07962).
+- GNNs: **Integrating Uncertainty-Aware Human Motion Prediction Into Graph-Based Manipulator Motion Planning**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10550073).
 - GNNs: **SIMPNet: Spatial-Informed Motion Planning Network**, 2024, [Paper Link](https://arxiv.org/pdf/2408.12831).
 - GNNs: **Reducing collision checking for sampling-based motion planning using graph neural networks**, 2021, [Paper Link](https://proceedings.neurips.cc/paper_files/paper/2021/file/224e5e49814ca908e58c02e28a0462c1-Paper.pdf).
 - GNNs: **Hardware architecture of graph neural network-enabled motion planner**, 2022, [Paper Link](https://dl.acm.org/doi/pdf/10.1145/3508352.3561113).
