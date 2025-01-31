@@ -105,6 +105,9 @@ This list will be continuously updated.
 - MLPs: **Learning-based warm-starting for fast sequential convex programming and trajectory optimization**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9172293).
 - DGMs - VAEs: **Motion planning by learning the solution manifold in trajectory optimization**, 2022, [Paper Link](https://journals.sagepub.com/doi/pdf/10.1177/02783649211044405).
 - DGMs - DMs: **Motion planning diffusion: Learning and planning of robot motions with diffusion models**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10342382).
+- DGMs - DMs: **Motion Planning Diffusion: Learning and Adapting Robot Motion Planning with Diffusion Models**, 2024, [Paper Link](https://arxiv.org/pdf/2412.19948).
+- DGMs - DMs: **M2diffuser: Diffusion-based trajectory optimization for mobile manipulation in 3d scenes**, 2024, [Paper Link](https://arxiv.org/pdf/2410.11402).
+- DGMs - DMs: **Diffusion-based generation, optimization, and planning in 3d scenes**, 2023, [Paper Link](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_Diffusion-Based_Generation_Optimization_and_Planning_in_3D_Scenes_CVPR_2023_paper.pdf).
 - DGMs - DMs: **Sampling constrained trajectories using composable diffusion models**, 2023, [Paper Link](https://openreview.net/pdf?id=UAylEpIMNE).
 - DGMs - DMs: **Efficient and Guaranteed-Safe Non-Convex Trajectory Optimization with Constrained Diffusion Model**, 2024, [Paper Link](https://arxiv.org/pdf/2403.05571).
 - DGMs - DMs: **Constraint-Aware Diffusion Models for Trajectory Optimization**, 2024, [Paper Link](https://arxiv.org/pdf/2406.00990).
