@@ -24,13 +24,25 @@ Here is the list of papers we reviewed in our survey paper. We only list the pap
 This list will be continuously updated.
 
 ## End-to-end Planning 
-- **Learning To Find Shortest Collision-Free Paths From Images**, 2020, [Paper Link](https://d1wqtxts1xzle7.cloudfront.net/83099921/2011.14787v1-libre.pdf?1648935949=&response-content-disposition=inline%3B+filename%3DLearning_To_Find_Shortest_Collision_Free.pdf&Expires=1734048774&Signature=TF0BRAHvqZi7oEIlGux7uuxjRteaiaelbXVdGbZEPbJZScRDidoPj6yr8jNd6tzI97hgz7mQ9yfVWhxQIby4lMl16z8HjhEy45ldLm6IrRkOfcvi9-HTUo1eYWpVIOvRWL0EWZKoWk6FGv6HaN07fjGyMXX0Y1eh~4OlDko8DXG-fCoJAxQ-DNMO6NyD6S1AqQzEMimfwkdqGI4AMrzQhAWu5sR13ENta5t76~2fNNqYACs8oGpQGJ1I4peCx58~eAgdTtfoWJJ8-4Sk2BoHTWqZYq5ApSURudZf9VvlZS~fOcjDk~aDyOjt17bktI12Ua~CU0DtiNdNaUTw385GyA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).
-- **Deep reactive planning in dynamic environments**, 2021. [Paper Link](https://proceedings.mlr.press/v155/ota21a/ota21a.pdf).
-- **Motion policy networks**, 2023, [Paper Link](https://proceedings.mlr.press/v205/fishman23a/fishman23a.pdf).
-- **Avoid Everything: Model-Free Collision Avoidance with Expert-Guided Fine-Tuning**, 2024, [Paper Link](https://openreview.net/pdf?id=ccxDydaAs1).
-- **Neural mp: A generalist neural motion planner**, 2024, [Paper Link](https://arxiv.org/abs/2409.05864).
-- **Transformer-Enhanced Motion Planner: Attention-Guided Sampling for State-Specific Decision Making**, 2024, [Paper Link](https://arxiv.org/pdf/2404.19403)
-- **Roco: Dialectic multi-robot collaboration with large language models**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610855).
+- MLPs: **Learning To Find Shortest Collision-Free Paths From Images**, 2020, [Paper Link](https://d1wqtxts1xzle7.cloudfront.net/83099921/2011.14787v1-libre.pdf?1648935949=&response-content-disposition=inline%3B+filename%3DLearning_To_Find_Shortest_Collision_Free.pdf&Expires=1734048774&Signature=TF0BRAHvqZi7oEIlGux7uuxjRteaiaelbXVdGbZEPbJZScRDidoPj6yr8jNd6tzI97hgz7mQ9yfVWhxQIby4lMl16z8HjhEy45ldLm6IrRkOfcvi9-HTUo1eYWpVIOvRWL0EWZKoWk6FGv6HaN07fjGyMXX0Y1eh~4OlDko8DXG-fCoJAxQ-DNMO6NyD6S1AqQzEMimfwkdqGI4AMrzQhAWu5sR13ENta5t76~2fNNqYACs8oGpQGJ1I4peCx58~eAgdTtfoWJJ8-4Sk2BoHTWqZYq5ApSURudZf9VvlZS~fOcjDk~aDyOjt17bktI12Ua~CU0DtiNdNaUTw385GyA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA).
+- CNNs: **Physics-informed neural motion planning on constraint manifolds**, 2024, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610883).
+- CNNs: **Deep reactive planning in dynamic environments**, 2021, [Paper Link](https://proceedings.mlr.press/v155/ota21a/ota21a.pdf)
+- CNNs: **Ntfields: Neural time fields for physics-informed robot motion planning**, 2022, [Paper Link](https://arxiv.org/pdf/2210.00120).
+- CNNs: **Progressive learning for physics-informed neural motion planning**,2023,[Paper Link](https://arxiv.org/pdf/2306.00616).
+- CNNs: **Physics-informed Neural Networks for Robot Motion under Constraints**, 2024,[Paper Link](https://openreview.net/pdf?id=gLf0PnhEO2).
+- CNNs: **Physics-informed neural mapping and motion planning in unknown environments**, 2025,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10916504).
+- CNNs: **Physics-informed Temporal Difference Metric Learning for Robot Motion Planning**,2025,[Paper Link](https://arxiv.org/pdf/2505.05691).
+- PCNets: **Motion policy networks**, 2023, [Paper Link](https://proceedings.mlr.press/v205/fishman23a/fishman23a.pdf).
+- PCNets: **Neural mp: A generalist neural motion planner**, 2024,[Paper Link](https://arxiv.org/abs/2409.05864).
+- PCNets: **Avoid Everything: Model-Free Collision Avoidance with Expert-Guided Fine-Tuning**, 2024,[Paper Link](https://openreview.net/pdf?id=ccxDydaAs1).
+- RNNs: **Neural path planning: Fixed time, near-optimal path generation via oracle imitation**, 2019,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8968089).
+- DGMs - VAEs: **Reaching through latent space: From joint statistics to path planning in manipulation**, 2022,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9718343).
+- DGMs - VAEs: **Leveraging scene embeddings for gradient-based motion planning in latent space**, 2023,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10161427).
+- Foundation Models: **Roco: Dialectic multi-robot collaboration with large language models**, 2024,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10610855).
+- Foundation Models: **Language models as zero-shot trajectory generators**, 2024,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10549793).
+- Foundation Models: **Reshaping robot trajectories using natural language commands: A study of multi-modal data alignment using transformers**, 2022,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9981810).
+- Foundation Models: **Latte: Language trajectory transformer**, 2023,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10161068).
+
 
 ## Sampling-based Motion Planning 
 ### Sampling Primitive
