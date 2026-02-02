@@ -65,6 +65,7 @@ This list will be continuously updated.
 - MLPs: **Learning motion planning functions using a linear transition in the c-space: Networks and kernels**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9529848).
 - MLPs: **Parallelised diffeomorphic sampling-based motion planning**, 2022, [Paper Link](https://proceedings.mlr.press/v164/lai22a/lai22a.pdf)
 - MLPs: **Leveraging experience in lazy search**, 2021, [Paper Link](https://link.springer.com/content/pdf/10.1007/s10514-021-10018-5.pdf).
+- MLPs: **Motion planning of manipulator by points-guided sampling network**, 2022, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9765528).
 - CNNs: **Using deep learning to bootstrap abstractions for hierarchical robot planning**, 2022, [Paper Link](https://arxiv.org/pdf/2202.00907).
 - CNNs: **Prediction of bottleneck points for manipulation planning in cluttered environment using a 3d convolutional neural network**, 2019, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8988766).
 - CNNs: **A Hybrid AI-based Adaptive Path Planning for Intelligent Robot Arms**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10339309).
