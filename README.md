@@ -41,6 +41,8 @@ This list will be continuously updated.
 - CNNs: **Physics-informed Temporal Difference Metric Learning for Robot Motion Planning**,2025,[Paper Link](https://arxiv.org/pdf/2505.05691).
 - PCNets: **Motion policy networks**, 2023, [Paper Link](https://proceedings.mlr.press/v205/fishman23a/fishman23a.pdf).
 - PCNets: **Neural mp: A generalist neural motion planner**, 2024,[Paper Link](https://arxiv.org/abs/2409.05864).
+- PCNets: **Deep reactive policy: Learning reactive manipulator motion planning for dynamic environments**, 2025, [Paper Link](https://arxiv.org/pdf/2509.06953?).
+- PCNets: **PerFACT: Motion Policy with LLM-Powered Dataset Synthesis and Fusion Action-Chunking Transformers**, 2025, [Paper Link](https://arxiv.org/pdf/2512.03444).
 - PCNets: **Avoid Everything: Model-Free Collision Avoidance with Expert-Guided Fine-Tuning**, 2024,[Paper Link](https://openreview.net/pdf?id=ccxDydaAs1).
 - RNNs: **Neural path planning: Fixed time, near-optimal path generation via oracle imitation**, 2019,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8968089).
 - DGMs - VAEs: **Reaching through latent space: From joint statistics to path planning in manipulation**, 2022,[Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9718343).
