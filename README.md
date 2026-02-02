@@ -57,8 +57,6 @@ This list will be continuously updated.
 ### Sampling Primitive
 - MLPs: **Motion planning networks**, 2019, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8793889).
 - MLPs: **Motion planning networks: Bridging the gap between learning-based and classical motion planners**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9154607).
-- MLPs: **Neural manipulation planning on constraint manifolds**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9143433).
-- MLPs: **Constrained motion planning networks x**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9501956).
 - MLPs: **Deeply informed neural sampling for robot motion planning**, 2018, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8593772).
 - MLPs: **End-to-end deep learning-based framework for path planning and collision checking: bin-picking application**, 2024, [Paper Link](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/D68F8B21FDA8DC6DC3E1D5D312C3178B/S0263574724000109a.pdf/endtoend_deep_learningbased_framework_for_path_planning_and_collision_checking_binpicking_application.pdf).
 - MLPs: **A data-driven approach for motion planning of industrial robots controlled by high-level motion commands**, 2023, [Paper Link](https://www.frontiersin.org/journals/robotics-and-ai/articles/10.3389/frobt.2022.1030668/full).
@@ -113,6 +111,8 @@ This list will be continuously updated.
 
 ## Constrained Sampling-based Motion Planning
 - MLPs: **Learning equality constraints for motion planning on manifolds**, 2021, [Paper Link](https://proceedings.mlr.press/v155/sutanto21a/sutanto21a.pdf).
+- MLPs: **Neural manipulation planning on constraint manifolds**, 2020, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9143433).
+- MLPs: **Constrained motion planning networks x**, 2021, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9501956).
 - MLPs: **Fast kinodynamic planning on the constraint manifold with deep neural networks**, 2023, [Paper Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10292912).
 - MLPs: **Ntfields: Neural time fields for physics-informed robot motion planning**, 2022, [Paper Link](https://arxiv.org/pdf/2210.00120).
 - MLPs: **Progressive Learning for Physics-informed Neural Motion Planning**, 2023, [Paper Link](https://arxiv.org/pdf/2306.00616).
