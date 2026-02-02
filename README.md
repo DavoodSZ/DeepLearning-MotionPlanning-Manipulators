@@ -3,7 +3,6 @@
   |
   <a href="https://arxiv.org/abs/2408.12831"><strong>Paper</strong></a>
   |
-  <a href="https://x.com/davoodsz"><strong>Twitter</strong></a>
   
 <a href="https://zh.engr.tamu.edu/people-2/">Davood Soleymanzadeh</a>,
 <a href="https://haosu-robotics.github.io/people">Ivan Lopez-Sanchez</a>,
