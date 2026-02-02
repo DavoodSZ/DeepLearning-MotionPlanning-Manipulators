@@ -11,6 +11,8 @@
 <a href="https://engineering.tamu.edu/civil/profiles/liang-xiao">Xiao Liang</a>,
 <a href="https://engineering.tamu.edu/mechanical/profiles/zheng-minghui">Minghui Zheng</a>
 
+IEEE Transactions on Automation Science and Engineering (T-ASE)(2026)
+
 <p align="center">
 <img width="1000" src="./assets/SurveyStructure.svg">
 <br>
