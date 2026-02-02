@@ -1,4 +1,4 @@
-# Deep Learning in Robotic Manipulator Planning: State of the Art, Challenges and Future Perspectives
+# Towards Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities
 <a href="https://zh.engr.tamu.edu/people-2/">Davood Soleymanzadeh</a>,
 <a href="https://haosu-robotics.github.io/people">Ivan Lopez-Sanchez</a>,
 <a href="https://mae.ncsu.edu/people/hao-su/">Hao Su</a>,
