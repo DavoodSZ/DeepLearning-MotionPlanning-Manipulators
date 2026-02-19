@@ -186,7 +186,7 @@ If you find our work useful, please consider citing:
 
 ```
 @article{soleymanzadeh2026toward,
-  title={Towards Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities},
+  title={Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities},
   author={Soleymanzadeh, Davood and Lopez-Sanchez, Ivan and Su, Hao and Li, Yunzhu and Liang, Xiao and Zheng, Minghui},
   journal={IEEE Transactions on Automation Science and Engineering},
   year={2026},
