@@ -8,8 +8,8 @@
 <a href="https://haosu-robotics.github.io/people">Ivan Lopez-Sanchez</a>,
 <a href="https://engineering.nyu.edu/faculty/hao-su">Hao Su</a>,
 <a href="https://yunzhuli.github.io/">Yunzhu Li</a>,
-<a href="https://engineering.tamu.edu/civil/profiles/liang-xiao">Xiao Liang</a>,
-<a href="https://engineering.tamu.edu/mechanical/profiles/zheng-minghui">Minghui Zheng</a>
+<a href="https://engineering.tamu.edu/civil/profiles/liang-xiao.html">Xiao Liang</a>,
+<a href="https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html">Minghui Zheng</a>
 
 IEEE Transactions on Automation Science and Engineering (T-ASE) (2026)
 
