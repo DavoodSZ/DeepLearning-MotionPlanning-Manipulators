@@ -1,7 +1,7 @@
 # Toward Generalist Neural Motion Planners for Robotic Manipulators: Challenges and Opportunities
 <a href="https://davoodsz.github.io/planning-manip-survey.github.io/"><strong>Project Page</strong></a>
   |
-  <a href="https://arxiv.org/abs/2408.12831"><strong>Paper</strong></a>
+  <a href="https://ieeexplore.ieee.org/document/11370949"><strong>Paper</strong></a>
   |
   
 <a href="https://zh.engr.tamu.edu/people-2/">Davood Soleymanzadeh</a>,
